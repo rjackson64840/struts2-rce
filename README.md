@@ -40,3 +40,5 @@ in an environment where the default locale is set to English. This means that
 the default messages defined in package.properties are in English. If the default
 locale for your server is different, then rename package.properties to package_en.properties
 and create a new package.properties with proper values for your default locale.
+
+rj was here
